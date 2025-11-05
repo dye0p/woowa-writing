@@ -420,6 +420,7 @@ Warning: @Where is deprecated, use @SQLRestriction instead
 ### 7.1 네이티브 쿼리는 소프트 딜리트 어노테이션 적용이 되지 않는다.
 
 ![img.png](img.png)
+
 데이터베이스에 4개의 레코드가 존재하고, '도기' 레코드는 소프트 딜리트 되었습니다.
 
 ```java
